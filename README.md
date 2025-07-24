@@ -1,12 +1,11 @@
- div align="center">
+  div align="center">
 
-<!-- صورة أو GIF للحوت يغوص في كلمة Deep Learning -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/deep_learning_whale.gif" width="100%" alt="Whale dives into Deep Learning" />
+<img src="https://chat.openai.com/share/static/deep_learning_whale.gif" width="100%" alt="Whale dives into Deep Learning" />
 
 <br>
 
 # 👨‍💻 Youssef Soliman  
-### Information Systems Engineer & Software Engineering Candidate  
+### Information Systems Engineer & Software Engineering Candidate
 
 ---
 
@@ -17,8 +16,6 @@ _Diving into complexity, emerging with clarity._
 ---
 
 </div>
-
----
 
 ## 🧠 About Me
 
@@ -40,3 +37,42 @@ const Youssef = {
 
 
 ---
+
+🧰 My Core Stack
+
+Languages & Logic
+
+
+
+
+
+
+Frameworks & Tools
+
+
+
+
+
+
+
+
+---
+
+📚 Academic & Technical Background
+
+🎓 BSc in Information Systems
+
+🛠 Currently pursuing Software Engineering Equivalency
+
+🧠 Trained in:
+
+Computational Thinking & Logic
+
+Data Structures & Algorithm Analysis
+
+Software Development Lifecycle
+
+Artificial Intelligence & Deep Learning
+
+Databases & Operating Systems
+
