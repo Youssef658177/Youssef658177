@@ -1,48 +1,41 @@
-div align="center" width="50">
+div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders!" />
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work" />
 <br>
 
-### 👨‍💻 Youssef Soliman – Information Systems Engineer & Software Engineering Candidate
+# 👋 Hey there, I’m **Youssef Soliman**
+
+🎓 **Information Systems Graduate**  
+🔧 **Software Engineering Candidate**  
+💡 Passionate about turning ideas into real-world software solutions
 
 </div>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 🎓 Bachelor's degree in **Information Systems**, currently pursuing an equivalency in **Software Engineering**.
-- 💼 Strong experience in system design, application development, data analysis, and network security.
-- 🧠 Passionate about AI, DevOps, and writing clean, maintainable code.
-- 💻 Skilled in Flutter, React Native, Python, Java, Go, C++, and more.
-- 🐧 Enthusiast of Linux systems and open-source development.
+```js
+const Youssef = {
+  degree: "BSc in Information Systems",
+  pursuing: "Software Engineering Equivalency",
+  codingSince: 2019,
+  interests: ["System Design", "App Development", "DevOps", "Security"],
+  toolsILove: ["Linux", "VS Code", "Git", "Flutter", "Figma"],
+  funFact: "I build, break, and fix – that's how I grow."
+};
 
----
+💼 I build scalable mobile and web apps.
 
-<details>
-<summary><strong>🎵 Busy coding & vibing to:</strong></summary>
+🧠 I believe clean code + problem-solving = powerful systems.
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+📚 Lifelong learner, currently diving deeper into:
 
-</details>
+System Architecture
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+CI/CD & Cloud DevOps
 
----
-
-### 🛠️ Tech Stack & Tools I Use
-
-```dart
-// Summary of skills and tools
-class AboutMe extends Engineer {
-  const tools = {
-    "Languages": ["Go", "Python", "Java", "Dart", "C++", "JavaScript"],
-    "Frontend": ["Flutter", "HTML", "CSS"],
-    "Backend": ["Firebase", "SQLite"],
-    "Tools": ["Git", "Linux", "VS Code", "Figma"]
-  };
-
+Flutter & Cross-Platform Development
     
