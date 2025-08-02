@@ -1,6 +1,9 @@
 
 
-## 👨‍\U0001F4BB Software Engineer && Information Systems
+
+---
+
+## 👨‍💻 Joseph Solomon — Software Engineer && Information Systems
 
 <h2 align="center">
   <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"><br>
@@ -9,7 +12,7 @@
 
 ---
 
-## 👨‍\U0001F4BB Software Domains
+## 👨‍💻 Software Domains
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -37,23 +40,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ---
 
-## 📂 Topics & Concepts
+## 🧠 Knowledge Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20Design-lightgrey?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software%20Design%20Patterns-darkblue?style=for-the-badge&logo=circle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-teal?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-darkgreen?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-darkblue?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+---
+
+## 📽️ Coding Vibes
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding Animation">
@@ -62,6 +63,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,python,react,nodejs,mongodb,figma,androidstudio,postman" />
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SP-XD?tab=followers">
