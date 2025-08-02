@@ -1,12 +1,5 @@
 
 
-تمام ✅، شيلت اسم SP-XD (Somnath Paul) من قسم GitHub Stats وعدّلت كل الروابط لتكون بدون اسم مستخدم، أو جهزتها بحيث تشتغل مع حسابك أنت لما تحط الـREADME في GitHub الخاص بك.
-
-إليك النسخة المعدلة:
-
-
----
-
 ## 👨‍💻 Joseph Solomon — Software Engineer && Information Systems
 
 <h2 align="center">
@@ -73,7 +66,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef658177 _icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -81,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=radical" />
 </p>
 
 
