@@ -97,6 +97,12 @@ I love solving real-world problems with code and building solutions that scale ð
 
 ---
 
+
+
+
+
+
+
 ## ðŸ“Š GitHub Stats
 
 <p align="center">
@@ -104,9 +110,12 @@ I love solving real-world problems with code and building solutions that scale ð
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Youssef658177&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Youssef658177&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Youssef658177?template=classic&languages=1&isocalendar=1&achievements=1&base=header,activity,community,repositories,metadata" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=radical" />
 </p>
+
+
+
