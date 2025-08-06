@@ -4,7 +4,7 @@
 ---
 ## 👨‍💻 Joseph Solomon — Software Engineer && Information Systems
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Joseph+Solomon.;I+am+a+Software+Engineer+information+systems.;I+Love+Solving+Problems.&center=true&size=25">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Joseph+Solomon.;I+am+a+Software+Engineer.;And+information+systems.&center=true&size=25">
 </p>
 
 <h2 align="center">
