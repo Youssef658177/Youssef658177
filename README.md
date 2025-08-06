@@ -2,13 +2,25 @@
 
 
 ---
-
 ## 👨‍💻 Joseph Solomon — Software Engineer && Information Systems
 
 <h2 align="center">
   <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"><br>
   <br> <b>Software Engineer && Information Systems</b>
 </h2>
+
+---
+
+## 🙋‍♂️ About Me
+
+Hi there 👋  
+I'm **Joseph Solomon**, a passionate **Software Engineer** and **Information Systems Specialist** with strong experience in:
+- Full-stack web & mobile development
+- Cloud computing and infrastructure
+- System design and DevOps
+- Cybersecurity and software architecture
+
+I love solving real-world problems with code and building solutions that scale 🚀
 
 ---
 
@@ -54,10 +66,29 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🔐 [CyberSecurity Toolkit](#) – tools for ethical hacking & network testing.
+- 🌐 [Full Stack Web App](#) – MERN app for managing tasks online.
+- 📱 [Mobile Nutrition Tracker](#) – Android app for tracking diet and health.
+
+(ضع روابط المشاريع بدل `#` لو عندك ريبو جاهز)
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
 ## 📽️ Coding Vibes
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding Animation">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding Animation" width="500">
 </p>
 
 <p align="center">
@@ -77,10 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=radical" />
+  <img src="https://metrics.lecoq.io/Youssef658177?template=classic&languages=1&isocalendar=1&achievements=1&base=header,activity,community,repositories,metadata" />
 </p>
-
-
----
-
-
