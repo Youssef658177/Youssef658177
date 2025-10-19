@@ -125,8 +125,10 @@ s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=radical" />
+</p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-             .<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef658177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+
+             
 
