@@ -10,6 +10,8 @@
 <h2 align="center">
   <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"><br>
   <br> <b>Software Engineer && Information Systems</b>
+<video src="cyberpunk-workspace.mp4" autoplay loop muted playsinline></video>
+
 </h2>
 
 ---
